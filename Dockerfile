@@ -4,14 +4,6 @@
 
 # 
 # dds-daemon (OpenSplice) docker image 
-#
-# Howto:
-# Download the latest OpenSplice community edtion from www.prismtech.com
-# Move OpenSplice tar ball to resources/OpenSpliceDDS-src.tar.gz
-#   NOTE: registration and manual license agreement needed.
-# Build docker image -> docker build -t dds-daemon .
-#
-# TODO
 
 FROM ubuntu:14.04
 MAINTAINER Pepijn Noltes <pepijnnoltes@gmail.com> 
